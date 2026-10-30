@@ -8,7 +8,7 @@
   "TYPES.Actor.vehicle": "Vehicle",
   "TYPES.Actor.spaceship": "Spaceship",
   "TYPES.Item.ability": "Ability",
-  "TYPES.Item.armor": "Armor",
+  "TYPES.Item.armor": "Armour",
   "TYPES.Item.artifact": "Artifact",
   "TYPES.Item.chassis": "Chassis",
   "TYPES.Item.critical": "Critical",
@@ -30,7 +30,7 @@
       "OCCUPANTS":"Occupants",
       "OCCUPANTS_COUNT": "Occupants #",
       "RESILIENCE":"Resilience",
-      "ARMOR":"Armor",
+      "ARMOR":"Armour",
       "FUEL":"Fuel",
       "MOVE_BONUS":"Gear Bonus"
     }
@@ -48,8 +48,8 @@
   "MYZ.AGE": "Age",
   "MYZ.ANIMAL": "Animal",
   "MYZ.ANIMAL_POWERS": "Animal Powers",
-  "MYZ.ARMOR": "Armor",
-  "MYZ.ARMOR_BODY": "Armor",
+  "MYZ.ARMOR": "Armour",
+  "MYZ.ARMOR_BODY": "Armour",
   "MYZ.ARMOR_RATING": "Rating",
   "MYZ.ARMOR_ROT_PROTECTION":"Rot Prot.",
   "MYZ.ARMOR_SHIELD": "Shield",
