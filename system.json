@@ -1,8 +1,8 @@
 {
-  "id": "mutant-year-zero",
-  "title": "Mutant Year Zero",
-  "description": "The Official Mutant Year Zero system for FoundryVTT!",
-  "version": "14.0.4",
+  "id": "shadowrun-myzhack",
+  "title": "Shadowrun: MYZ Hack",
+  "description": "Shadowrun using MYZ's system on FoundryVTT!",
+  "version": "0.0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "14",
@@ -10,8 +10,8 @@
   },
   "authors": [
     {
-      "name": "HappySteve",
-      "discord": "shteff#8724",
+      "name": "Osura",
+      "discord": "osura",
       "flags": {}
     }
   ],
